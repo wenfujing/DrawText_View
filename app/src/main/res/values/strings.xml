@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="press_me">点我。。点我。就点我。。</string>
+
+    <string-array name="color_tips">
+        <item>RED</item>
+        <item>GREEN</item>
+        <item>BLUE</item>
+        <item>BLACK</item>
+        <item>YELLOW</item>
+    </string-array>
+</resources>

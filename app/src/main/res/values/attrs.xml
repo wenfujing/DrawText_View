@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<declare-styleable name="BaseLineCreate">
+    <attr name="BaseLine_backgroud_color" format="color" />
+    <attr name="BaseLine_text_color" format="color" />
+    <attr name="BaseLine_text_size" format="float|reference" />
+</declare-styleable>
+<!--    <declare-styleable name="BaseLineView">-->
+
+
+<!--        <attr name="BaseLine_backgroud_color" format="color" />-->
+<!--        <attr name="BaseLine_text_color" format="color" />-->
+<!--        <attr name="BaseLine_text_size" format="float|reference" />-->
+<!--    </declare-styleable>-->
+</resources>

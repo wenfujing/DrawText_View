@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_test"
+        android:layout_width="@dimen/x400"
+        android:layout_height="@dimen/x200"
+        android:background="@color/colorPrimary"
+        android:text="@string/press_me"
+        android:singleLine="true"
+        android:ellipsize="marquee"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:onClick="onClick"/>
+
+    <com.ocwvar.myapplication.BaseLineView
+        android:id="@+id/Baseline_Text"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        />
+
+
+
+
+
+</LinearLayout>
